@@ -1,0 +1,60 @@
+
+
+.menu
+{
+    background-color: rgb(163, 174, 176);
+    text-align: center;
+    padding: 0px 14px;
+    width: 100%;
+    float:right;
+    height: 70px;
+}
+
+ul li{
+    
+    padding: 0px 8px;
+    list-style: none;
+    margin-right: 0px;
+    margin-top: 10px;
+    font-size: 16px;
+    display: inline-table;
+   
+    
+}
+
+ul li a
+{
+    
+    text-decoration: none;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+
+.center
+{
+    text-align: center;
+}
+
+h1
+{
+    color: black;
+    text-align: center;
+}
+
+h2
+{
+    color: aliceblue;
+    text-align: center;
+}
+
+.audio
+{
+    text-align: center;
+}
+
+.images
+{
+    text-align: center;
+}
